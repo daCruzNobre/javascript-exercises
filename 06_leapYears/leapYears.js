@@ -24,5 +24,4 @@ const leapYears = function(year) {
 //else if(year%100=== 0 && year%400 ===0){return true;}
 // Do not edit below this line
 
-console.log(leapYears(1900))
 module.exports = leapYears;
